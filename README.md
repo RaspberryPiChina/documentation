@@ -23,13 +23,13 @@
 - [故障处理](troubleshooting/README.md)
     - 有什么疑难杂症，来这里碰下运气吧？
 
-## Contributions
+## 贡献
 
-If you have anything to fix or details to add, first [file an issue](http://github.com/raspberrypi/documentation/issues) on GitHub to see if it is likely to be accepted, then file a pull request with your change (one PR per issue).
+若想修改或增加任何内容，请先前往GitHub[报告问题](http://github.com/raspberrypi/documentation/issues)查看是否可能会被收录，然后再提交Pull申请（每个问题一个申请）。
 
-This is not intended to be an open wiki; we want to keep it concise and minimal but will accept fixes and suitable additions.
+本文档并不以公开维基形式提供；为确保内容精炼，仅接受修正和合适的新内容。
 
-See our [contributing policy](CONTRIBUTING.md).
+请参阅我们的[贡献准则](CONTRIBUTING.md)。
 
 ## Licence
 
