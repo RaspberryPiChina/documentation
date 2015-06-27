@@ -31,12 +31,12 @@
 
 请参阅我们的[贡献准则](CONTRIBUTING.md)。
 
-## 授权
+## 许可
 
 除非另有声明，本网站采用知识共享“署名-相同方式创作 4.0 国际”许可协议授权。
 
-[![知识共享“署名-相同方式创作 4.0 国际”](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Creative Commons Attribution-ShareAlike 4.0 International](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-***Raspberry Pi Documentation*** by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
+***树莓派中文文档*** 由[树莓派中文](https://www.rpicn.org/)维护， 根据 [知识共享“署名-相同方式创作 4.0 国际”](http://creativecommons.org/licenses/by-sa/4.0/)许可协议授权。
 
-Based on a work at https://github.com/raspberrypi/documentation
+源自https://github.com/rpicn/documentation
