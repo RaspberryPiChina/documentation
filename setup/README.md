@@ -1,22 +1,22 @@
-# Setup 
+# 设置
 
-A guide to setting up your Raspberry Pi
+树莓派设置向导
 
-## What you will need
+## 需要的配件
 
-### Essential (for general use)
+### 必备品（日常使用）
 
-- [SD Card](../installation/sd-cards.md)
-    - We recommend an 8GB class 4 SD card - ideally preinstalled with [NOOBS](../installation/noobs.md).
-- [Display & connectivity cable](monitor-connection.md)
-    - Any HDMI/DVI monitor and any TV should work as a display for the Pi. For best results, use one with HDMI input, but other connections are available for older devices. 
-- Keyboard and mouse
-    - Any standard USB keyboard and mouse will work with your Raspberry Pi.
-    - Wireless keyboards and mice will work if already paired.
-    - For keyboard layout configuration options see [raspi-config](../configuration/raspi-config.md).
-- [Power supply](../hardware/raspberrypi/power/README.md)
-    - The Pi is powered by a USB Micro power supply (like most standard mobile phone chargers).
-    - You'll need a good-quality power supply that can supply at least 700mA at 5V.
+- [SD卡（TF卡）](../installation/sd-cards.md)
+    - 建议使用8G的C4或以上的SD卡，最好已准备好了[NOOBS](../installation/noobs.md)；
+- [显示设备和线缆](monitor-connection.md)
+    - 一般情况下，支持HDMI或DVI的电视或显示器都可与树莓派一起使用。为保证最佳效果，请使用有HDMI输入的显示设备；另外支持旧式显示设备的接口同样可用。
+- 键盘和鼠标
+    - 标准的USB键盘和鼠标都适用于树莓派。
+    - 已成功配对的无线键盘和鼠标也可使用。
+    - 键盘布局设置，请参考[raspi-config](../configuration/raspi-config.md)。
+- [电源](../hardware/raspberrypi/power/README.md)
+    - 树莓派使用Micro USB接口连接电源（与大多数的移动电话一样）。
+    - 电源的最低要求：5V-0.7A；目前
     - Low ampage (~700mA) power supplies will work for basic usage, but are likely to cause the Pi to reboot if it draws too much power.
 
 ### Optional
