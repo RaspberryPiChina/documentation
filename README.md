@@ -23,20 +23,20 @@ This is the official documentation for the Raspberry Pi, written by the [Raspber
 - [Troubleshooting](troubleshooting/README.md)
     - Got a problem with your Pi? Start here
 
-## Contributions
+## 贡献
 
-If you have anything to fix or details to add, first [file an issue](http://github.com/raspberrypi/documentation/issues) on GitHub to see if it is likely to be accepted, then file a pull request with your change (one PR per issue).
+若想修改或增加任何内容，请先前往GitHub[报告问题](http://github.com/raspberrypi/documentation/issues)查看是否可能会被收录，然后再提交Pull申请（每个问题一个申请）。
 
-This is not intended to be an open wiki; we want to keep it concise and minimal but will accept fixes and suitable additions.
+本文档并不以公开维基形式提供；为确保内容精炼，仅接受修正和合适的新内容。
 
-See our [contributing policy](CONTRIBUTING.md).
+请参阅我们的[贡献准则](CONTRIBUTING.md)。
 
-## Licence
+## 许可
 
-Unless otherwise specified, everything in this repository is covered by the following licence:
+除非另有声明，本网站采用知识共享“署名-相同方式创作 4.0 国际”许可协议授权。
 
 [![Creative Commons Attribution-ShareAlike 4.0 International](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-***Raspberry Pi Documentation*** by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) is licensed under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
+***树莓派中文文档*** 由[树莓派中文](https://www.rpicn.org/)维护， 根据 [知识共享“署名-相同方式创作 4.0 国际”](http://creativecommons.org/licenses/by-sa/4.0/)许可协议授权。
 
-Based on a work at https://github.com/raspberrypi/documentation
+源自https://github.com/rpicn/documentation
