@@ -1,6 +1,6 @@
 # 树莓派（Raspberry Pi）帮助文档
 
-本文档为树莓派官方帮助文档，由[树莓派基金会（Raspberry Pi Foundation）](https://www.raspberrypi.org/)以及基社区贡献者撰写。本帮助文档中方版本由[聪头话斋](https://alexlee.cn)发起和维护。
+本文档为树莓派官方帮助文档，由[树莓派基金会（Raspberry Pi Foundation）](https://www.raspberrypi.org/)以及基社区贡献者撰写。本帮助文档中方版本由[树莓派中文](https://www.rpicn.org)发起和维护。
 
 ## 目录
 
@@ -39,4 +39,4 @@
 
 ***树莓派中文文档*** 由[树莓派中文](https://www.rpicn.org/)维护， 根据 [知识共享“署名-相同方式创作 4.0 国际”](http://creativecommons.org/licenses/by-sa/4.0/)许可协议授权。
 
-源自https://github.com/rpicn/documentation
+源自https://github.com/RaspberryPiChina/documentation
