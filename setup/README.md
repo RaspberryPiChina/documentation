@@ -1,35 +1,35 @@
-# Setup 
+# 设置
 
-A guide to setting up your Raspberry Pi
+树莓派设置向导
 
-## What you will need
+## 需要的配件
 
-### Essential (for general use)
+### 必备配件（日常使用）
 
-- [SD Card](../installation/sd-cards.md)
-    - We recommend an 8GB class 4 SD card - ideally preinstalled with [NOOBS](../installation/noobs.md).
-- [Display & connectivity cable](monitor-connection.md)
-    - Any HDMI/DVI monitor and any TV should work as a display for the Pi. For best results, use one with HDMI input, but other connections are available for older devices. 
-- Keyboard and mouse
-    - Any standard USB keyboard and mouse will work with your Raspberry Pi.
-    - Wireless keyboards and mice will work if already paired.
-    - For keyboard layout configuration options see [raspi-config](../configuration/raspi-config.md).
-- [Power supply](../hardware/raspberrypi/power/README.md)
-    - The Pi is powered by a USB Micro power supply (like most standard mobile phone chargers).
-    - You'll need a good-quality power supply that can supply at least 700mA at 5V.
-    - Low ampage (~700mA) power supplies will work for basic usage, but are likely to cause the Pi to reboot if it draws too much power.
+- [SD卡（TF卡）](../installation/sd-cards.md)
+    - 建议使用8G的C4或以上的SD卡，最好已准备好了[NOOBS](../installation/noobs.md)；
+- [显示设备和线缆](monitor-connection.md)
+    - 一般情况下，支持HDMI或DVI的电视或显示器都可与树莓派一起使用。为保证最佳效果，请使用有HDMI输入的显示设备；另外支持旧式显示设备的接口同样可用。
+- 键盘和鼠标
+    - 标准的USB键盘和鼠标都适用于树莓派。
+    - 已成功配对的无线键盘和鼠标也可使用。
+    - 键盘布局设置，请参考[raspi-config](../configuration/raspi-config.md)。
+- [电源](../hardware/raspberrypi/power/README.md)
+    - 树莓派使用Micro USB接口连接电源（与大多数的移动电话一样）。
+    - 电源的最低要求：5V-0.7A；对于目前最新版本树莓派2代B型，建议使用5V-2A的稳压电源。
+    - 低功率（电流低于700mA）电源也可能提供基本运行所需的电源，但一旦供电不足时，树莓派可能会因此而重启。
 
-### Optional
+### 可供选择的配件
 
-- Ethernet (network) cable [Model B/B+ only]
-    - An Ethernet cable is used to connect your Pi to a local network and the internet.
-- [USB wireless dongle](../configuration/wireless/README.md)
-    - Alternatively, you can connect to a wireless network using a USB wireless dongle, which will require configuration.
-- Audio lead
-    - Audio can be played through speakers or headphones using a standard 3.5mm jack.
-    - Without an HDMI cable, an audio lead is necessary to produce sound.
-    - No separate audio lead is necessary if you're using an HDMI cable to connect to a monitor with speakers, as audio can be played directly through the display; but it is possible to connect one if you prefer to have the audio played through other speakers - this requires [configuration](../configuration/audio-config.md).
+- 网线[针对B/B+/2B]
+    - 接入局域网或直接接入互联网。
+- [USB无线网卡](../configuration/wireless/README.md)
+    - 或者选择无线网卡接入局域网，需另行配置无线局域网。
+- 音频线
+    - 3.5mm的音频线连通音箱或耳机后即可播放音频。
+    - 若不使用HDMI线，需连接音频线方可播放音频。
+    - 若已使用HDMI线连接上带有音箱的显示器，则毋须另接音频线，显示器的音箱即可播放音频；此时如需使用其他音箱播放音频，则需另接音频线，请浏览[配置方法](../configuration/audio-config.md).
 
-## Troubleshooting
+## 故障处理
 
-For any issues during setup, see [troubleshooting](../troubleshooting/README.md).
+若在设置过程中遇到任何问题，请参考[故障处理](../troubleshooting/README.md).
