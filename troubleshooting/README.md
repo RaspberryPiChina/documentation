@@ -1,12 +1,12 @@
-# Troubleshooting
+# 故障处理
 
-Having trouble with your Pi? Start here:
+树莓派有什么疑难杂症吗？先看看这几篇文章吧：
 
-- [IP Address](hardware/networking/ip-address.md)
-- [Camera](hardware/camera.md)
+- [IP地址](hardware/networking/ip-address.md)
+- [摄像头](hardware/camera.md)
 
-## Forums
+## 论坛
 
-Unfortunately our troubleshooting pages are severely lacking at present.
+真可惜，目前故障处理页面亟待完善。
 
-If you can't find what you're looking for, try searching our [forums](http://www.raspberrypi.org/forums/) for your problem, and if you can't find it, ask for help there.
+如果未能查找到有用的资料，请尝试在我们的[论坛](http://www.raspberrypi.org/forums/)搜索你的问题，如果仍未能解决，请在论坛中寻求帮助。
